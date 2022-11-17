@@ -6,8 +6,6 @@ PROJETO INTEGRADOR DE LOGÍSTICA
 
 **Scrum Master-** *Gustavo Silva*
 
-**Scrum Team-** *Isabela Alves*
-
 **Scrum Team-** *Diana Moura*
 
 
