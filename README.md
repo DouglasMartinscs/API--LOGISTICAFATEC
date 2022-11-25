@@ -9,26 +9,14 @@
      <a href="#estrutura-pastas">Estrutura digital do projeto </a> •
      <a href="#entregas">Entregas</a> •
      <a href="#equipe">Equipe</a>
-     
-     # Autores
  
- [<img src="https://github.com/anaelisac/Imagens/blob/main/ana%20temp.png" width=115><br><sub>Ana Elisa Costa</sub><br><sub>Scrum Master</sub>](https://github.com/anaelisac)
  
- [<img src="https://github.com/anaelisac/Imagens/blob/main/cay%20temp.jpg" width=115><br><sub>Caylane Raíssa</sub><br><sub>Product Owner</sub>](https://github.com/caylaneraissa)
- 
- [<img src="https://github.com/anaelisac/Imagens/blob/main/bry%20temp.jpg" width=115><br><sub>Bryan Rosário</sub><br><sub>Dev</sub>](https://github.com/bryanrosario)
- 
- [<img src="https://github.com/anaelisac/Imagens/blob/main/camila%20temp.jpg" width=115><br><sub>Camila</sub><br><sub>Dev</sub>](https://github.com/caylaneraissa)
- 
- [<img src="https://github.com/anaelisac/Imagens/blob/main/juan%20temp.jpg" width=115><br><sub>Juan</sub><br><sub>Dev</sub>](https://github.com/bryanrosario)
-
-</p>
 
 <span id="sobre">
 
 ### :mag_right: Sobre o projeto:
  <p>
-  Avaliação de cadeias produtivas de Petróleo, Óleo e Gás de municípios da RMVALE por meio de coleta, tratamento e análise de dados.
+  Avaliação da cadeia produtiva Aeroespacial dos municípios da RMVALE por meio de coleta, tratamento e análise de dados.
  </p>
 
 <a href="#inicio">[Voltar ao início]</a>
