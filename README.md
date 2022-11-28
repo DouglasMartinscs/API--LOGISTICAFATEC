@@ -86,8 +86,8 @@ Sprint ID | Data | Tag | Status
 ### :busts_in_silhouette: Equipe:
 Função | Nome | ------------------
 -------|------|-------------------
-Scrum Master | Gustavo Bernardes Silva|
-Product Owner | Douglas Martins Pereira | 
-Dev | Diana Moura | 
+Product Owner | Douglas Martins Pereira |
+Scrum Master | Gustavo Bernardes Silva| 
+Scrum team | Diana Moura | 
  
 <a href="#inicio">[Voltar ao início]</a>
