@@ -84,7 +84,7 @@ Sprint ID | Data | Tag | Status
 <span id="equipe">
 
 ### :busts_in_silhouette: Equipe:
-Função | Nome | 
+Função | Nome | ------------------
 -------|------|-------------------
 Scrum Master | Gustavo Bernardes Silva|
 Product Owner | Douglas Martins Pereira | 
